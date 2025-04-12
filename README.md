@@ -30,6 +30,3 @@ O esquema inclui:
 - O arquivo **ecommerce.sql** foi desenvolvido para PostgreSQL. Ajustes podem ser necessários para outros SGBDs.
 - Certifique-se de configurar o esquema para o banco de dados **public**.
 
-## 📄 Licença
-Sinta-se livre para usar e modificar este esquema para seus projetos.
-
